@@ -1,0 +1,2 @@
+1st line of file.txt
+2nd line of file.txt
